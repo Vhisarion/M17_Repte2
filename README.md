@@ -37,4 +37,8 @@ En processing, la classe PVector ja implementa el mètode mag() per a calcular-l
 
 La magnitud té un valor de 1 sempre. Utilitzar un vector unitari és precisament això, un vector de magnitud 1.
 
+### Exercici 6
+
+Com que treballa amb java, ens permet exprimir tot el potencial de l'OOP. Ja ha quedat molt clar a l'exercici 5 que el sistema d'herència funciona perfectament.
+
 
