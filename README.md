@@ -25,3 +25,16 @@ Té un mètode **add(Pvector v)** per sumar-li un vector
 Faria un PVector velocitat i un Pvector posicio, i fins i tot podria fer-ne un per les mides de la imatge. Un cop creats, es pot utilitzar el mètode add per a sumar el vector velocitat al de posició per moure la imatge en comptes de sumar individualment la x i la y. 
 
 Evidentment, s'hauràn de canviar totes les referències a les variables de posicio, velocitat i mides per els seus respectius *PVector*.x i *PVector*.y
+
+
+### Exercici 3
+
+La magnitud d'un vector es calcula amb el teorema de pitàgores, ja que tots els vectors formen un triangle amb els dos paràmetres i la magnitud com a costats. Per tant, seria a^2 = √b^2 + c^2
+
+En processing, la classe PVector ja implementa el mètode mag() per a calcular-lo fàcilment.
+
+### Exercici 4
+
+La magnitud té un valor de 1 sempre. Utilitzar un vector unitari és precisament això, un vector de magnitud 1.
+
+
